@@ -5,7 +5,7 @@ and open the template in the editor.
 */
 /* 
     Created on : Aug 21, 2019, 2:29:51 PM
-    Author     : URK17CS254
+    Author     : URK17CS257
 */
 body{
     background-image: url('sa1.jpg');
@@ -106,7 +106,7 @@ div9.absolute{
    padding: 20px;
 }
 div10.absolute{
-    background-color:white;
+    background-color:green;
     position: absolute;
     top: 680px;
     left: 0px;
